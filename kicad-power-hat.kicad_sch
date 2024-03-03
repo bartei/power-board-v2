@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Raspberry 485 Power Hat")
-		(date "2024-03-02")
+		(date "2024-03-03")
 		(rev "2.0")
 		(company "Provvedo LLC")
 		(comment 1 "Stefano Bertelli")
@@ -4824,8 +4824,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "30V"
-			(at 168.402 42.926 90)
+		(property "Value" "SMBJ40CA"
+			(at 161.798 42.672 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4860,7 +4860,7 @@
 				(hide yes)
 			)
 		)
-		(property "CODE" "SMBJ30CA"
+		(property "CODE" "SMBJ40CA"
 			(at 173.99 44.45 90)
 			(effects
 				(font
@@ -4869,7 +4869,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C353367"
+		(property "LCSC" "C84730"
 			(at 173.99 44.45 90)
 			(effects
 				(font
