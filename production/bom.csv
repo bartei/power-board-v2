@@ -1,14 +1,15 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BR1,SOTFL510P865X150-4N,1,MSB40M,
 "C1, C2",CP_Elec_10x12.6,2,330u,C128512
+C3,0805,1,1u,C24123
 "D1, D4, D6",0603,3,LED,C965799
-D2,D_SMC,1,30V,C353367
-D3,Diode_Bridge_Bourns_CD-DF4xxS,1,4A,C2985033
+D2,D_SMC,1,SMDJ40CA,C84730
 D5,D_SMA,1,3A,C8678
 F1,1812,1,2A,C960026
 "H1, H2, H3, H4",MountingHole_2.7mm_M2.5,4,MountingHole,
 J1,PinHeader_2x20_P2.54mm_Vertical,1,Raspberry_Pi_2_3,
 J2,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",1,AC Power In,
-J3,"TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal",1,Screw_Terminal_01x03,
+J3,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",1,RS485,
 L1,L_Sunlord_SWRB1207S,1,47u,C2929503
 Q1,SOT-23,1,BC847,C181140
 "Q2, Q3",SOT-23,2,BC857,C8666
